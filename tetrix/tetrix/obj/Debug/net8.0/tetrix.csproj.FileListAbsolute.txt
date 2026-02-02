@@ -1,0 +1,14 @@
+C:\Users\grove\Desktop\tetrix\tetrix\bin\Debug\net8.0\tetrix.exe
+C:\Users\grove\Desktop\tetrix\tetrix\bin\Debug\net8.0\tetrix.deps.json
+C:\Users\grove\Desktop\tetrix\tetrix\bin\Debug\net8.0\tetrix.runtimeconfig.json
+C:\Users\grove\Desktop\tetrix\tetrix\bin\Debug\net8.0\tetrix.dll
+C:\Users\grove\Desktop\tetrix\tetrix\bin\Debug\net8.0\tetrix.pdb
+C:\Users\grove\Desktop\tetrix\tetrix\obj\Debug\net8.0\tetrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grove\Desktop\tetrix\tetrix\obj\Debug\net8.0\tetrix.AssemblyInfoInputs.cache
+C:\Users\grove\Desktop\tetrix\tetrix\obj\Debug\net8.0\tetrix.AssemblyInfo.cs
+C:\Users\grove\Desktop\tetrix\tetrix\obj\Debug\net8.0\tetrix.csproj.CoreCompileInputs.cache
+C:\Users\grove\Desktop\tetrix\tetrix\obj\Debug\net8.0\tetrix.dll
+C:\Users\grove\Desktop\tetrix\tetrix\obj\Debug\net8.0\refint\tetrix.dll
+C:\Users\grove\Desktop\tetrix\tetrix\obj\Debug\net8.0\tetrix.pdb
+C:\Users\grove\Desktop\tetrix\tetrix\obj\Debug\net8.0\tetrix.genruntimeconfig.cache
+C:\Users\grove\Desktop\tetrix\tetrix\obj\Debug\net8.0\ref\tetrix.dll
