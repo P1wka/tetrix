@@ -24,17 +24,17 @@ cd tetrix
 4. Build the project,
 
 4. Follow that steps:
-   For Linux:
-   In Visual Studio terminal, use this;
+   ### For Linux:
+   - In Visual Studio terminal, use this; 
    ```bash
    dotnet publish --runtime linux-x64
    ```
-   Then, go to ```tetrix\tetrix\bin\Release\net8.0\linux-x64```
-   To run commands, open the terminal
+   - Then, go to ```tetrix\tetrix\bin\Release\net8.0\linux-x64```
+   - To run commands, open the terminal
 
-   For Windows:
-   Build the project in Visual Studio
-   Then, find the ```tetrix.exe``` in ```tetrix\tetrix\bin\Debug\net8.0\```
+   ### For Windows:
+   - Build the project in Visual Studio
+   - Then, find the ```tetrix.exe``` in ```tetrix\tetrix\bin\Debug\net8.0\```
 
 
 ## Commands
