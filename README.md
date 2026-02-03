@@ -10,7 +10,7 @@ It is built on a custom game engine and currently under active development.
 - DOTNET 8.0 SDK
 
 > **Note:**  
-> On Windows, pre-built executable files are already included. Rebuilding is optional.
+> On Windows, pre-built executable files aren't included. It must be build.
 
 ---
 
