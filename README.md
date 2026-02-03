@@ -5,7 +5,7 @@
 ## Requirements
 
 - Visual Studio (.NET 8.0)
-  **NOTE: If you use Windows, there is built files in project. You don't have to compile it again.**
+- **NOTE: If you use Windows, there is built files in project. You don't have to compile it again.**
 
 
 ## Installation
