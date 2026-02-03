@@ -20,29 +20,6 @@ It is built on a custom game engine and currently under active development.
 ```bash
 git clone https://github.com/P1wka/tetrix.git
 cd tetrix
-```
-
-## Running the game
-🪟 Windows
-
-1. Open ```tetrix.sln``` file with Visual Studio,
-2. Build the project
-3. Run tetrix.exe from:
-```bash
-tetrix/tetrix/bin/Debug/net8.0/
-```
-🐧 Linux
-
-1. Open tetrix.sln with Visual Studio
-2. Publish the project:
-```bash
-dotnet publish --runtime linux-x64
-```
-3. Navigate to:
-```bash
-tetrix/tetrix/bin/Release/net8.0/linux-x64/
-```
-4. Run from terminal
 
 ---
 
