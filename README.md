@@ -46,6 +46,8 @@ Current version is ```v0.0.1```.
 
 <img width="1079" height="600" alt="screenshot_linux" src="https://github.com/user-attachments/assets/2e61db34-f8ac-4e90-a28e-98f935d8ad63" />
 
+--- 
+
 🪟 Windows: 
 
 <img width="937" height="620" alt="Ekran görüntüsü 2026-02-03 205526" src="https://github.com/user-attachments/assets/ee00ce0f-291c-49f4-b2c4-288169bca6fc" />
