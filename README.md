@@ -20,7 +20,7 @@ It is built on a custom game engine and currently under active development.
 ```bash
 git clone https://github.com/P1wka/tetrix.git
 cd tetrix
-
+```
 ---
 
 ## Commands
